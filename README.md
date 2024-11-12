@@ -8,6 +8,7 @@
             - Ou usando o tipo (String, boll...)
             - final (não permite reatribuição)
             - var (permite reatribuição)
+            - const (não permite reatribuição)
 - Complexos
 
 
@@ -16,7 +17,7 @@
     - NULL SAFETY:
         - símbolo de null (?)
         - símbolo de não nulo (!)
-        - late initializer
+        - late initializer (garantimos que em algum momento a variavel será inicializada)
 - Classes
 - Métodos (Funções)
 
